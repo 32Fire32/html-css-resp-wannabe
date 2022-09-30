@@ -130,14 +130,14 @@ img {
 @media screen and (max-width:1140px){
 
     .container {
-        max-width: 1140px;
+        max-width: 100%;
     }
 }
 
 /* TABLET */
 @media screen and (max-width: 768px){
     .container {
-        max-width: 768px;
+        max-width: 100%;
     }
 }
 
@@ -147,7 +147,7 @@ img {
     /* COMMON */
 
     .container {
-        max-width: 480px;
+        max-width: 100%;
     }
 
     /* MAIN */
